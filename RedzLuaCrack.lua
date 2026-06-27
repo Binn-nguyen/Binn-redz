@@ -18,7 +18,7 @@ local function NotificacaoNightMystic(titulo, mensagem)
         local CoreGui = Services.CoreGui
         local LogoID = "rbxassetid://1000015465"
         local ScreenGui = Instance.new("ScreenGui")
-        ScreenGui.Name = "NM_Notify"
+        ScreenGui.Name = "Binn | Redz hub edition "
         ScreenGui.ResetOnSpawn = false
         ScreenGui.Parent = CoreGui
         
@@ -96,7 +96,7 @@ local function NotificacaoNightMystic(titulo, mensagem)
     end
 end
 
-NotificacaoNightMystic("hiruz Hub", "Ä‘Ă£ táº£i xong!!")
+NotificacaoNightMystic("Binn Hub", "Redz Hub edition")
 
 -- ========================================
 -- SAVE SYSTEM (Optimized)
